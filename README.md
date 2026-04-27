@@ -66,7 +66,7 @@ Dự án được tổ chức theo mô hình phân lớp rõ ràng:
 ### 🏃 Các bước thực hiện
 1. **Clone dự án:**
    ```bash
-   git clone https://github.com/your-username/WebVideo.git
+   git clone https://github.com/loigado/WebVideo.git
    ```
 2. **Cấu hình Cơ sở dữ liệu:**
    - Tạo một database mới trong SQL Server với tên: `PolyOEAsm`.
