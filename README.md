@@ -80,21 +80,11 @@ Dự án được tổ chức theo mô hình phân lớp rõ ràng:
    - Build dự án bằng Maven: `mvn clean install`.
    - Run trên Server Tomcat.
    - Truy cập: `http://localhost:8080/WebVideo`
-
 ---
 
-## 📸 Hình Ảnh Demo
-*(Cập nhật các link ảnh dưới đây bằng ảnh thực tế từ dự án của bạn)*
+## 👨‍💻 Thông tin Tác giả
 
-| Trang Chủ | Chi Tiết Video | Quản Lý Admin |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/300x180?text=Home+Page) | ![Watch](https://via.placeholder.com/300x180?text=Watch+Video) | ![Admin](https://via.placeholder.com/300x180?text=Admin+Dashboard) |
-
----
-
-## 🤝 Liên Hệ
-- **Tác giả:** [Tên của bạn]
-- **Email:** [Email của bạn]
-
----
-*Dự án này là sản phẩm bài tập lớn (ASM) môn Java 4/5, thể hiện khả năng làm việc với Servlet/JSP và Hibernate một cách chuyên nghiệp.*
+* **Tác giả:** Lê Tấn Lợi
+* **Đơn vị:** Sinh viên FPT Polytechnic và Học viện Green Academy
+* **Kỹ năng:** Unity Developer, Software Engineer (Spring Boot, Vue.js, C#).
+* **Liên hệ:** loiletan04@gmail.com
